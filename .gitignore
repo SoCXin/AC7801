@@ -20,8 +20,8 @@
 iDesigner_Project/
 settings/
 Debug/
-*pdf
-*doc*
+# *pdf
+# *doc*
 *xlsx
 *scvd
 *uvopt*

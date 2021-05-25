@@ -15,6 +15,7 @@ AC7801x系列芯片基于ARM Cortex®-M0+内核，运行主频48MHz(or 72MHz)，
 
 ### 关键特性
 
+* 车规产品，UART-LIN
 * CAN-FD，兼容CAN2.0B
 * 温度范围: -40 to 125 °C
 
