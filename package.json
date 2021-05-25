@@ -1,7 +1,0 @@
-{
-    "name":"CH528",
-    "Core":"RISC",
-    "description":"RISC 8bit CH528 MCU",
-    "url":"https://github.com/SoCXin/CH528",
-    "version":"1.0.0"
-}

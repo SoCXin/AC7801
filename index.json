@@ -1,0 +1,28 @@
+{
+    "type":"MCU",
+    "name":"AC7801",
+    "series":["AC7801"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "package":["UFBGA100","LQFP100","LQFP64","WLCSP49","UFQFN48"],
+    "manufacturer": {
+        "vendor":"autochips",
+        "homepage":"http://www.autochips.com/jk/MCU1/index_225.aspx?pid=530&typeid=225"
+    },
+    "url":"http://www.SoC.xin/AC7801",
+    "repo":"https://github.com/SoCXin/AC7801",
+    "version":"1.0.0",
+    "AC7801": {
+        "SRAM":20000,
+        "Flash":64000,
+        "package":"QFN20",
+        "peripheral": ["ADC","TIM","PWM"],
+        "GPIO":18,
+        "price":6.8
+    },
+    "ADC": {
+        "num": 1,
+        "channel": 8,
+        "resolution": 12,
+        "rate": 1024
+    }
+}
